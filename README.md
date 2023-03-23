@@ -1,2 +1,2 @@
 # fullStackBlog
-A blog website using springboot and react
+A blog website using java springboot and react. 
